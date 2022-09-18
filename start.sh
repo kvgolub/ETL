@@ -1,0 +1,1 @@
+#!/usr/bin/python /home/de1m/golb/main.py
