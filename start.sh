@@ -1,1 +1,1 @@
-#!/usr/bin/python /home/de1m/golb/main.py
+#!/usr/bin/python /main.py
